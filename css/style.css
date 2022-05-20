@@ -1,0 +1,154 @@
+/* CSS Document */
+a{ font-size:14px; color:#000; text-decoration:none }a:hover{ color:#FF3366}
+ul{ margin:0; padding:0}
+body{ font-size:14px; margin:0 auto; padding:0; background:#fff;  color:#333; line-height:30px}
+.clearfix:after{ clear:both; content:''; display:block;}
+.main{ width:1200px; margin:0 auto}
+header b{ float:left; margin-top:5px}
+header{ background:#2b903e; height:100px  }
+.head span{ margin-top:15px}
+.head p{ margin:0; float:right; margin-top:20px; }
+header a{color:#fff }
+h1,h2,h3{ margin:0; padding:0}
+header a{ font-size:19px; margin:15px 30px; display:inline-block}
+header a:hover{ color:#FFCC00}
+.fl{ float:left}.fr{ float:right}
+.bg000{ background:rgba(255,255,255,.4); overflow:hidden;}
+.bar{ padding:5px 0; font-size:18px; height:24px; border-bottom:#999 solid 1px}
+.w40{ width:40%;}.w60{ width:60%}.w20{ width:20%}
+.imgtextlist  li{ border:#ccc solid 1px; margin:0; padding:0; list-style:none; display:inline-block; text-align:center; width:221px; margin:15px; margin-bottom:0}
+.imgtextlist img{ width:200px; height:200px}
+.div2 .fr div{ margin:5px 5px; font-size:14px;}
+.div2{ float:left;margin-top:20px; font-size:14px; width:280px;}
+.div4{ float:right;margin-top:20px; width:700px}.div7{ margin-top:20px; width:100%}
+footer{ text-align:center;  margin-top:50px; padding:10px 0; background:#2b903e; color:#fff}
+.con{ padding:20px}
+.title{ color:#FF0033; padding:20px 0; border-bottom:#333 dashed 1px ; margin-bottom:20px}
+.div1 img{ float:left}
+.div7{ margin-top:20px}
+.mar{ margin:20px 10px; padding-bottom:10px;}
+.js  div{ width:100%; clear:both; margin-bottom:20px; float:left}
+.bar a{ float:right}
+.bar  h3{ float:left}
+.list{ margin:0 -15px}
+.ggg{ width:100%; background:#339966; color:#fff; padding:15px 30px; font-size:18px}
+.g1{ float:left; width:50%}
+.g2{ float:right; width:47%}
+.js div img{ float:left; margin-right:20px} 
+.form span{ text-align:right; width:110px; display:inline-block}
+.form  .inp{ padding:8px; width:220px; border:#339966 solid 1px;}
+.form { font-size:18px; margin-left:50px}
+#sub{ background:#339966 ; width:237px; color:#fff}
+.form>div{ margin:10px 0}
+.h h3{ font-size:16px;}
+.hy{ background:#eee; padding:20px; width:400px; margin:20px auto}.hy span{ display:inline-block; width:140px;}
+.row{ margin-left:-20px; margin-right:-20px;}
+.row .rcr{ margin-right:14px}
+.recommand{
+    float: left;
+    width: 100%;
+}
+.rec-nav{
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+    left: -1px;
+    height: 48px;
+    line-height: 48px;
+    background:
+    color: #48900F;
+    border-bottom: 1px solid #48900F;
+}
+.bd{ background:url(../images/c10.jpg) no-repeat left; padding-left:600px; padding-top:150px; padding-bottom:150px }
+.rec-nav span{
+    font-size: 12px;
+    margin-left: 10px;
+    color:#999999 ;
+}
+.rec-nav h2{ font-size:24px}
+.rec-cont{
+    float: left;
+
+
+    margin-top: 40px;
+}
+.rec-left{
+    float: left;
+    width: 320px;
+    height: 400px;
+}
+.rec-right{
+    float: left;
+    width:880px;
+    height: 400px;
+
+}
+img{ max-width:100%}
+.rcr{
+    float: left;
+    width: 270px;
+    height: 330px;
+    margin-left: 23px;
+}
+.rcr-top{
+    width: 260px;
+    height: 200px;
+   margin-left: 10px;
+    transition: all 0.5s;
+}
+
+.rcr-bot {
+    width: 260px;
+    height: 130px;
+    margin: 0 5px;
+}
+.ad{ margin-top:30px}
+.rb-top{
+    width: 260px;
+    height: 30px;
+    text-align: center;
+    font-size: 16px;
+    border-bottom:1px dashed #999999;
+}
+.second_P{
+    padding-top: 15px;
+    width: 260px;
+    height: 20px;
+    text-align:center;
+}
+.fk-prop,.fk-prop-p{
+    font-size: 12px;
+    color: #4AB344;
+}
+.fk-prop-price{
+    color: #4AB344;
+    font-size: 18px;
+}
+.second_Marketprice {
+    color: #767676;
+    font-size: 12px;
+    text-decoration: line-through;
+}
+.buy{
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+    height: 33px;
+    line-height: 33px;
+    text-align: center;
+}
+.second_mallBuy{
+    display: inline-block;
+    height: 33px;
+    width: 80%;
+    line-height: 33px;
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    max-width: 240px;
+    letter-spacing: 0;
+    background-color:#4AB344 ;
+}
